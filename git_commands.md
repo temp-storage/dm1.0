@@ -46,3 +46,5 @@ git pull
 
 Downloading file from GitHub:
 git clone <repo link>
+
+Folder name can be changed by simply adding the desired folder name after the GitHub repo link
