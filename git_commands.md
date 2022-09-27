@@ -29,7 +29,7 @@ note: if no comment was added with -m, git will open default text editor in orde
 
 ## Uploading / Updating project to GitHub
 Adding GitHub page to project: 
-git add origin <web address>
+git remote add origin <web address>
 
 Renaming branch:
 git branch -M main 
