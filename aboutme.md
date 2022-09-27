@@ -4,7 +4,7 @@
 Nimeni on Pyry, olen (atm 27.9.2022) 24v koodari.
 Olen aina ollut kiinnostunut tietokoneista ja kaikesta tietotekniikkaan liittyvästä.
 Vaikka olen kiinnostunut tietotekniikasta, olen myös välillä siihen liittyen vainoharhainen...
-Esimerkiksi en käytä kotona Googlen hakukonetta vaan [Duck Duck Go](https://duckduckgo.com):ta koska pidän yksityisyydestäni. En myöskään käytä Google Chromea, preferoin **AINA** Firefoxia. ![Firefox](https://mobiili.fi/wp-content/uploads/2020/08/mozilla_firefox_logo.png "firefox")
+Esimerkiksi en käytä kotona Googlen hakukonetta vaan [Duck Duck Go](https://duckduckgo.com):ta koska pidän yksityisyydestäni. En myöskään käytä Google Chromea, preferoin **AINA** Firefoxia. ![Firefox](https://seeklogo.com/images/M/mozilla-firefox-logo-2D0FB4A819-seeklogo.com.jpg "firefox")
 Olen luonteeltani **introvertti**, hiljainen, ujo, hieman sellainen... *oddball*. 
 Lähtökohtaisesti muita kohtaan avoin ja ystävällinen.
 
