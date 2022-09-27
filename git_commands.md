@@ -37,5 +37,5 @@ git branch -M main
 Uploading file to GitHub project page:
 git push -u origin main
 
-Downloading file from GitHub to local machine
+Downloading file update from GitHub
 git pull
