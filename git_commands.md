@@ -25,4 +25,4 @@ git add .
 Commit file:
 git commit -m "Comment"
 
-note: if no comment was added git will open default text editor in order to add commit comment
+note: if no comment was added with -m, git will open default text editor in order to add commit comment
