@@ -26,3 +26,16 @@ Commit file:
 git commit -m "Comment"
 
 note: if no comment was added with -m, git will open default text editor in order to add commit comment
+
+## Uploading / Updating project to GitHub
+Adding GitHub page to project: 
+git add origin <web address>
+
+Renaming branch:
+git branch -M main 
+
+Uploading file to GitHub project page:
+git push -u origin main
+
+Downloading file from GitHub to local machine
+git pull
