@@ -37,5 +37,8 @@ git branch -M main
 Uploading file to GitHub project page:
 git push -u origin main
 
+the "-u" is needed when file is added to GitHub for the first time.
+
+
 Downloading file update from GitHub:
 git pull
