@@ -40,5 +40,9 @@ git push -u origin main
 the "-u" is needed when file is added to GitHub for the first time.
 
 
-Downloading file update from GitHub:
+Getting file sync from GitHub:
 git pull
+
+
+Downloading file from GitHub:
+git clone <repo link>
